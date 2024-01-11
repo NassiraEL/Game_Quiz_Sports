@@ -1,0 +1,139 @@
+{
+    "alphabets":["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"],
+
+    "category":{
+            "foot":[
+                {
+                    "question":"Quelle équipe a remporté la Coupe du Monde 2018?",
+                    "reponse": "france",
+                    "image":"img/foot.png"
+                },
+                {
+                    "question":"Qui est le meilleur buteur de tous les temps en Ligue des champions?",
+                    "reponse": "messi",
+                    "image":"img/foot.png"
+                },
+                {
+                    "question":"Quel pays a remporté le plus de Coupes du Monde masculines?",
+                    "reponse": "bresil",
+                    "image":"img/foot.png"
+                },
+                {
+                    "question":"Qui est l'actuel entraîneur de Liverpool FC?",
+                    "reponse": "klopp",
+                    "image":"img/foot.png"
+                },
+                {
+                    "question":"Quel joueur a remporté le Ballon d'Or 2021?",
+                    "reponse": "messi",
+                    "image":"img/foot.png"
+                },
+                {
+                    "question":"Quelle équipe a remporté le plus de Ligue des champions de l'UEFA?",
+                    "reponse": "real madrid",
+                    "image":"img/foot.png"
+                },
+                {
+                    "question":"Dans quel pays se déroulera la prochaine Coupe du Monde en 2022?",
+                    "reponse": "qatar",
+                    "image":"img/foot.png"
+                },
+                {
+                    "question":"Qui est le capitaine de l'équipe nationale portugaise?",
+                    "reponse": "ronaldo",
+                    "image":"img/foot.png"
+                }
+            ],
+ 
+
+            "basketball": [
+                {
+                    "question": "Quel joueur détient le record du plus grand nombre de points en un match de la NBA?",
+                    "reponse": "chamberlain",
+                    "image": "img/basketball.png"
+                },
+                {
+                    "question": "Quelle équipe a remporté le plus de titres consécutifs en NBA?",
+                    "reponse": "celtics",
+                    "image": "img/basketball.png"
+                },
+                {
+                    "question": "Qui est le joueur avec le plus de triples-doubles en NBA?",
+                    "reponse": "westbrook",
+                    "image": "img/basketball.png"
+                },
+                {
+                    "question": "Quel joueur a remporté le plus de MVP en NBA?",
+                    "reponse": "abduljabbar",
+                    "image": "img/basketball.png"
+                },
+                {
+                    "question": "Dans quelle ville les Raptors de Toronto jouent-ils?",
+                    "reponse": "toronto",
+                    "image": "img/basketball.png"
+                },
+                {
+                    "question": "Quel joueur a remporté le Slam Dunk Contest en 2020?",
+                    "reponse": "tones",
+                    "image": "img/basketball.png"
+                },
+                {
+                    "question": "Quel pays a remporté l'or en basket-ball aux JO 2021?",
+                    "reponse": "etatsunis",
+                    "image": "img/basketball.png"
+                },
+                {
+                    "question": "Qui est l'entraîneur de l'Espagne en basket-ball?",
+                    "reponse": "scariolo",
+                    "image": "img/basketball.png"
+                }
+            ],
+        
+
+
+            "tennis": [
+                {
+                    "question": "Qui détient le record du plus grand nombre de titres en Grand Chelem en simple chez les hommes?",
+                    "reponse": "federer",
+                    "image": "img/tennis.png"
+                },
+                {
+                    "question": "Quelle joueuse a remporté le plus de titres du Grand Chelem en simple chez les femmes?",
+                    "reponse": "court",
+                    "image": "img/tennis.png"
+                },
+                {
+                    "question": "Qui est actuellement le numéro un mondial chez les hommes?",
+                    "reponse": "djokovic",
+                    "image": "img/tennis.png"
+                },
+                {
+                    "question": "Quelle joueuse russe a remporté cinq titres du Grand Chelem en simple?",
+                    "reponse": "sharapova",
+                    "image": "img/tennis.png"
+                },
+                {
+                    "question": "Quel tournoi du Grand Chelem se déroule sur la surface en gazon?",
+                    "reponse": "wimbledon",
+                    "image": "img/tennis.png"
+                },
+                {
+                    "question": "Qui est la détentrice du record du plus grand nombre de semaines passées en tant que numéro un mondial chez les femmes?",
+                    "reponse": "graf",
+                    "image": "img/tennis.png"
+                },
+                {
+                    "question": "Quel joueur suisse a remporté deux médailles d'or olympiques en simple?",
+                    "reponse": "federer",
+                    "image": "img/tennis.png"
+                },
+                {
+                    "question": "Quel joueur espagnol est surnommé 'Rafa' et est spécialiste de la terre battue?",
+                    "reponse": "nadal",
+                    "image": "img/tennis.png"
+                }
+            ]
+        
+ 
+    }
+}
